@@ -1,0 +1,13 @@
+{
+    "result":[
+        {"station": "迈皋桥", "aqi": 101, "quality": "轻度污染", "pollutions": "臭氧1小时", "pm2_5":20,"pm10":75,"co":0.7,"no2":23,"o3":202,"o3_8h":170,"so2":9},
+        {"station": "草场门", "aqi": 90, "quality": "良", "pollutions": "臭氧1小时", "pm2_5":38,"pm10":62,"co":0.6,"no2":12,"o3":192,"o3_8h":164,"so2":16},
+        {"station": "山西路", "aqi": null, "quality": "轻度污染", "pollutions": "细颗粒物(PM2.5)", "pm2_5":76,"pm10":null,"co":0.6,"no2":19,"o3":185,"o3_8h":160,"so2":11},
+        {"station": "中华门", "aqi": 75, "quality": "良", "pollutions": "颗粒物(PM10)", "pm2_5":38,"pm10":99,"co":1.4,"no2":35,"o3":null,"o3_8h":133,"so2":31},
+        {"station": "瑞金路", "aqi": 87, "quality": "良", "pollutions": "臭氧1小时", "pm2_5":null,"pm10":71,"co":0.9,"no2":30,"o3":189,"o3_8h":162,"so2":22},
+        {"station": "玄武门", "aqi": 94, "quality": "良", "pollutions": "臭氧1小时", "pm2_5":27,"pm10":42,"co":0.5,"no2":10,"o3":195,"o3_8h":163,"so2":18},
+        {"station": "浦口", "aqi": 79, "quality": "良", "pollutions": "臭氧1小时", "pm2_5":13,"pm10":80,"co":0.4,"no2":20,"o3":183,"o3_8h":168,"so2":11},
+        {"station": "奥体中心", "aqi": null, "quality": null, "pollutions": null, "pm2_5":null,"pm10":null,"co":1.0,"no2":24,"o3":179,"o3_8h":160,"so2":30},
+        {"station": "仙林大学城", "aqi": 106, "quality": "轻度污染", "pollutions": "臭氧1小时", "pm2_5":32,"pm10":85,"co":0.8,"no2":22,"o3":211,"o3_8h":166,"so2":17}
+    ]
+}

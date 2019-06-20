@@ -1,0 +1,44 @@
+/* 空气质量等级 */
+.table-list table tr td span.lever-A{display: inline-block; width: 60px;  height: 20px; border-radius: 10px; background: #40c810;}
+.table-list table tr td span.lever-B{display: inline-block; width: 60px;  height: 20px; border-radius: 10px; background: #decb00;}
+.table-list table tr td span.lever-C{display: inline-block; width: 60px;  height: 20px; border-radius: 10px; background: #ff8a00;}
+
+
+.calendar{padding: 10px;}
+.calendar-hd{background: #21de83; border-radius: 3px; height: 32px; overflow: hidden;}
+.calendar-hd strong{float: left; color: white; line-height: 32px; padding-left: 10px;}
+/* .calendar-hd span{color: white; display: inline-block; padding-right: 12px; margin-right: 10px; line-height: 24px; cursor: pointer;} */
+
+.calendar-bd table{border-collapse: collapse; font-size: 14px;}
+.calendar-bd table thead tr td{color: #49c9ce;}
+.calendar-bd table tr td{text-align: center; color: #333; height: 29px;}
+.calendar-bd table tr td i{    cursor: pointer;height: 20px;line-height: 20px;width: 40px;display: inline-block;}
+.calendar-bd table tr td.on i{color: white;}
+
+.air-0{
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+.air-1{ background: #40c810;color: white;}
+.air-ft-1{ color: #40c810;}
+
+.air-2{ background: #decb00;color: white;}
+.air-ft-2{ color: #40c810;}
+
+.air-3{ background: #ff8a00;color: white; }
+.air-ft-3{ color: #ff8a00;}
+
+.air-4{ background: #f84018;color: white; }
+.air-ft-4{ color: #f84018;}
+
+.air-5{ background: #d00038; color: white;}
+.air-ft-5{ color: #d00038;}
+
+.air-6{ background: #580010;color: white; }
+.air-ft-6{ color: #580010;}
+
+.calendar-bd table tr td i.disable {
+    color: #ccc;
+    cursor: not-allowed;
+  }

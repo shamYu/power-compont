@@ -1,0 +1,17 @@
+{
+    "result":{
+        "header":{
+            "fontSize": "14px",
+            "fontFamily":"Avenir, Helvetica, Arial, sans-serif",
+            "color":"white",
+            "background":"rgb(33, 222, 131)"
+        },
+        "ringChart":{
+            "radius":"80%",
+            "fontSize":22
+        },
+        "pollutant": {
+            "height":"5px"
+        }
+    }
+}
